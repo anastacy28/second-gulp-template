@@ -1,0 +1,36 @@
+{
+  "name": "second-gulp-template",
+  "version": "1.0.0",
+  "description": "gulp template",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anastacy28/second-gulp-template.git"
+  },
+  "author": "Nastya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anastacy28/second-gulp-template/issues"
+  },
+  "homepage": "https://github.com/anastacy28/second-gulp-template#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "del": "^5.0.0",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "imagemin-pngquant": "^8.0.0"
+  }
+}
